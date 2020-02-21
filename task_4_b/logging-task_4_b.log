@@ -1,0 +1,9 @@
+2020-02-21 17:16:35 INFO  task_4_b.Interest:16 -Calculation of interest
+-------------------------
+2020-02-21 17:16:35 INFO  task_4_b.Interest:17 -Enter the principal amount:
+2020-02-21 17:16:44 INFO  task_4_b.Interest:19 -Enter the period(in years):
+2020-02-21 17:16:46 INFO  task_4_b.Interest:21 -Enter the rate of interest:
+2020-02-21 17:16:50 INFO  task_4_b.Interest:26 -What should I calculate for the above information:
+1.Simple interest
+2.Compound Interest
+2020-02-21 17:16:54 INFO  task_4_b.Interest:35 -Compound Interest:38117.08603578126
